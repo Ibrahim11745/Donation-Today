@@ -1,0 +1,89 @@
+*{
+    margin: 0px auto;
+}
+
+/* banner section styles */
+
+.banner-container{
+background-image: url('../images/donation6.jpg');
+width: 1440px;
+height: 650px;
+background-repeat: no-repeat;
+box-sizing: border-box;
+background-size: cover;
+text-align: center;
+
+}
+
+.banner-title{
+   
+    color: tomato;
+    padding: 200px 0 25px 0;
+    font-size: 50px;
+    margin: 0 400px;
+}
+.banner-paragraph{
+    color: wheat;
+    padding: 10px o;
+    margin: 0 400px;
+    font-size:20px;
+    
+}
+
+.btn-primary{
+
+    background: royalblue;
+
+    padding: 10px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 20px 0;
+
+}
+ /* banner section styles end */
+
+
+ /* donate amount styles start */
+.donate-container{
+    text-align: center;
+    margin: 0 400px;
+}
+.donate-title{
+    padding: 100px 0 25px 0;
+    color: #121212;
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.donate-paragraph{
+    margin: 20px 0;
+    font-size: 22px;
+}
+.donate-all-taka{
+    display: flex;
+}
+.donate-taka{
+    border: 0;
+    padding: 30px;
+    border-radius: 5px;
+    background: #FAFAFA;
+    margin-bottom: 50px;
+    color: #707070;
+}
+
+.donate-taka-4000{
+    border: 3px solid royalblue ;
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFEEEE;
+    margin-bottom: 50px;
+    color: #707070;
+}
+.others-taka{
+    margin-bottom: 10px;
+    color: #d2cdcd;
+    font-size: 25px;
+}
+ /* donate amount styles  end*/
