@@ -58,8 +58,9 @@ text-align: center;
     text-align: center;
 }
 .donate-paragraph{
-    margin: 20px 0;
-    font-size: 22px;
+    margin: 10px 0px;
+    font-size: 25px;
+    
 }
 .donate-all-taka{
     display: flex;
@@ -71,6 +72,7 @@ text-align: center;
     background: #FAFAFA;
     margin-bottom: 50px;
     color: #707070;
+    
 }
 
 .donate-taka-4000{
@@ -87,3 +89,50 @@ text-align: center;
     font-size: 25px;
 }
  /* donate amount styles  end*/
+
+ /* Our Donate Plan start */
+.plan-title{
+    text-align: center;
+    padding: 10px;
+}
+ .plan-paragraph{
+    text-align: center;
+    margin: 25px 260px;
+    font-size: 25px;
+ }
+
+ .plan-container{
+
+ }
+
+
+ .plan-paragraph{
+    text-align: center;
+    margin: 30px 400px;
+ }
+
+ .seva-All{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    margin: 20px 250px;
+    
+    
+ }
+ .seva-item-one{
+    background: #0abad1;
+    padding: 50px 20px;
+    font-size: 20px;
+ }
+.seva-item-two{
+    background: #8ae7f3;
+    padding: 50px 20px;
+    font-size: 20px;
+}
+.seva-item-three{
+    background: #195961;
+    padding: 50px 20px;
+    font-size: 20px;
+}
+ 
+ /* Our Donate Plan end */
